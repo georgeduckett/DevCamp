@@ -3,13 +3,12 @@
       <meta charset="utf-8">
       <meta http-equiv="X-UA-Compatible" content="IE=edge">
       <meta name="viewport" content="width=device-width, initial-scale=1">
-      <title>Azure Readiness: DevCamp</title>
 	  <link rel="stylesheet" href="style.css">
    </head>
    <body id="home">
       <div class="container">
          <div class="jumbotron">
-            <h1>Azure DevCamp</h1>
+            <h1>Azure Readiness: DevCamp</h1>
             <p>February 2016 release. Source: <a href="http://aka.ms/azure-devcamp">http://aka.ms/azure-devcamp</a></p>
             <p>
                <a href="http://aka.ms/CloudCamp-AzureTrial" class="btn btn-success">Sign up for Microsoft Azure</a>
@@ -34,57 +33,57 @@
                   <tr>
                      <td rowspan=3>Intro to Azure</td>
                      <td>30</td>
-                     <td>[Presentation](Presentation/Keynote/Keynote.pptx) | [Demos](Presentation/Keynote/)</td>
+			  <td><a href="Presentation/Keynote/Keynote.pptx">Presentation</a> | <a href="Presentation/Keynote/">Demos</a></td>
                   </tr>
                   <tr>
                      <td>15</td>
-                     <td>[HOL - Signup](HOL/creating-azure-account-activating-msdn-benefits/)</td>
+                     <td><a href="HOL/creating-azure-account-activating-msdn-benefits/">HOL - Signup</a></td>
                   </tr>
                   <tr>
                   <td>15</td>
-                  <td>[HOL - Working with the Management Portal](HOL/working-with-the-new-portal/)</td>
+                  <td><a href="HOL/working-with-the-new-portal/">HOL - Working with the Management Portal</a></td>
                   </tr>		
                   <tr>
                      <td rowspan=3>App Service</td>
                      <td>30</td>
-                     <td>[Presentation](Presentation/App-Service/App Service.pptx) | [Demos](Presentation/App-Service/)</td>
+			  <td><a href="Presentation/App-Service/App Service.pptx">Presentation</a> | <a href="Presentation/App-Service/">Demos</a></td>
                   </tr>
                   <tr>
                      <td rowspan=2>30</td>
-                     <td>[HOL - Deploy a Web App to Azure *or*](HOL/get-started-with-websites-and-asp-net/)</td>
+                     <td><a href="HOL/get-started-with-websites-and-asp-net/">HOL - Deploy a Web App to Azure</a> <b>or</b></td>
                   </tr>
                   <tr>
-                     <td>[HOL - Create an app with a mobile and web client in Azure App Service](HOL/build-mobile-app-with-web-client/)</td>
+                     <td><a href="HOL/build-mobile-app-with-web-client/">HOL - Create an app with a mobile and web client in Azure App Service<a/></td>
                   </tr>
                   <tr>
                      <td rowspan=2>Machine Learning</td>
                      <td>45</td>
-                     <td>[Presentation](/Presentation/Machine-Learning/Azure-Machine-Learning.pptx) | [Demos](Presentation/Machine-Learning/)</td>
+                     <td><a href="/Presentation/Machine-Learning/Azure-Machine-Learning.pptx">Presentation</a> | <a href="Presentation/Machine-Learning/">Demos</a></td>
                   </tr>
                   <tr>
                      <td>45</td>
-                     <td>[HOL - Deploy a SPA with AD to Azure](HOL/machine-learning/)</td>
+                     <td><a href="HOL/machine-learning/">HOL - Deploy a SPA with AD to Azure</a></td>
                   </tr>
                   <tr>
                      <td rowspan=2>IaaS</td>
                      <td>45</td>
-                     <td>[Presentation](Presentation/IaaS/IaaS.pptx) | [Demos](Presentation/IaaS/)</td>
+                     <td><a href="Presentation/IaaS/IaaS.pptx">Presentation</a> | <a href="Presentation/IaaS/">Demos</a></td>
                   </tr>
                   <tr>
                      <td>45</td>
-                     <td>[HOL - IaaS](HOL/create-virtual-machine/)</td>
+                     <td><a href="HOL/create-virtual-machine/">HOL - IaaS</a></td>
                   </tr>
                   <tr>
                      <td rowspan=3>Data overview</td>
                      <td>45</td>
-                     <td>[Presentation](Presentation/Data-Platform/Data-Platform.pptx) | [Demos](Presentation/Data-Platform/)</td>
+                     <td><a href="Presentation/Data-Platform/Data-Platform.pptx">Presentation</a> | <a href="Presentation/Data-Platform/">Demos</a></td>
                   </tr>
                   <tr>
                      <td rowspan=2>45</td>
-                     <td>[HOL - DocumentDB *or*](HOL/build-web-app-using-documentdb/)</td>
+                     <td><a href="HOL/build-web-app-using-documentdb/">HOL - DocumentDB</a> <b>or</b></td>
                   </tr>
                   <tr>
-                     <td>[HOL - Elastic Scale](HOL/sql-database/)</td>
+                     <td><a href="HOL/sql-database/">HOL - Elastic Scale</a></td>
                   </tr>
                </table>
             </div>
@@ -97,57 +96,57 @@
                <table class="table table-bordered table-striped table-hover">
 					<tr>
 					   <td>Keynote</td>
-					   <td>[Presentation](Presentation/Keynote/Keynote.pptx) | [Demos](Presentation/Keynote/)</td>
+					   <td><a href="Presentation/Keynote/Keynote.pptx">Presentation<a/> | <a href="Presentation/Keynote/">Demos</a></td>
 					   <td>This module introduces the Cloud and the Cadence of Azure.</td>
 					</tr>
 					<tr>
 					   <td>PaaS</td>
-					   <td>[Presentation](Presentation/PaaS/Building Cloud Solutions.pptx) | [Demos](Presentation/PaaS/)</td>
+					   <td><a href="Presentation/PaaS/Building Cloud Solutions.pptx">Presentation</a> | <a href="Presentation/PaaS/">Demos</a></td>
 					   <td>This module provides an overview of how to design and deploy cloud solutions on Azure.</td>
 					</tr>
 					<tr>
 					   <td>App Service</td>
-					   <td>[Presentation](Presentation/App-Service/App Service.pptx) | [Demos](Presentation/App-Service/)</td>
+					   <td><a href="Presentation/App-Service/App Service.pptx">Presentation</a> | <a href="Presentation/App-Service"/>Demos</a></td>
 					   <td>This module outlines the high-level features of Azure App Service</td>
 					</tr>
 					<tr>
 					   <td>Machine Learning</td>
-					   <td>[Presentation](/Presentation/Machine-Learning/Azure-Machine-Learning.pptx) | [Demos](Presentation/Machine-Learning/)</td>
+					   <td><a href="Presentation/Machine-Learning/Azure-Machine-Learning.pptx">Presentation</a> | <a href="Presentation/Machine-Learning/">Demos</a></td>
 					   <td>This module outlines the high-level features of Azure Machine Learning</td>
 					</tr>
 					<tr>
 					   <td>Data Platform</td>
-					   <td>[Presentation](Presentation/Data-Platform/Data-Platform.pptx) | [Demos](Presentation/Data-Platform/)</td>
+					   <td><a href="Presentation/Data-Platform/Data-Platform.pptx">Presentation</a> | <a href="Presentation/Data-Platform/">Demos</a></td>
 					   <td>This module outlines the Data offerings on Microsoft Azure</td>
 					</tr>
 					<tr>
 					   <td>Data Storage</td>
-					   <td>[Presentation](Presentation/Data-Storage/Data-Storage.pptx) | [Demos](Presentation/Data-Storage/)</td>
+					   <td><a href="Presentation/Data-Storage/Data-Storage.pptx">Presentation</a> | <a href="Presentation/Data-Storage/">Demos</a></td>
 					   <td>This module gives an overview of HDInsight</td>
 					</tr>
 					<tr>
 					   <td>IaaS</td>
-					   <td>[Presentation](Presentation/IaaS/IaaS.pptx) | [Demos](Presentation/IaaS/)</td>
+					   <td><a href="Presentation/IaaS/IaaS.pptx">Presentation</a> | <a href="Presentation/IaaS/">Demos</a></td>
 					   <td>This module outlines the Virtual Machine and Virtual Network features of Microsoft Azure</td>
 					</tr>
 					<tr>
 					   <td>Media</td>
-					   <td>[Presentation](Presentation/Media/Media.pptx) | [Demos](Presentation/Media/)</td>
+					   <td><a href="Presentation/Media/Media.pptx">Presentation</a> | <a href="Presentation/Media/">Demos</a></td>
 					   <td>This Module outlines the Media Service on Microsoft Azure.</td>
 					</tr>
 					<tr>
 					   <td>Integration / Hybrid Workflows / API Management</td>
-					   <td>[Presentation](Presentation/Integration-Hybrid-Workflows/APIManagementIntro.pptx) | [Demos](Presentation/Integration-Hybrid-Workflows/)</td>
+					   <td><a href="Presentation/Integration-Hybrid-Workflows/APIManagementIntro.pptx">Presentation</a> | <a href="Presentation/Integration-Hybrid-Workflows/">Demos</a></td>
 					   <td>This module outlines the integration offerings on Microsoft Azure</td>
 					</tr>
 					<tr>
 					   <td>Identity / Access Management</td>
-					   <td>[Presentation](Presentation/Identity-Access-Management/Identity and o365.pptx) | [Demos](Presentation/Identity-Access-Management/)</td>
+					   <td><a href="Presentation/Identity-Access-Management/Identity and o365.pptx">Presentation</a> | <a href="Presentation/Identity-Access-Management/">Demos</a></td>
 					   <td>This module outlines the Identity and Access Management offerings on Microsoft Azure</td>
 					</tr>
 					<tr>
 					   <td>Conclusion</td>
-					   <td>[Presentation](Presentation/Conclusion/Conclusion.pptx)</td>
+					   <td><a href="Presentation/Conclusion/Conclusion.pptx">Presentation</a></td>
 					   <td>This short presentation includes calls to action and signup links for camp attendees</td>
 					</tr>
 				 </table>
